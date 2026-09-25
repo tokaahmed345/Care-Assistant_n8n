@@ -1,6 +1,10 @@
+# Post-Op Care Assistant
+
 An AI-powered Telegram assistant that helps post-surgery patients remember their aftercare instructions (diet, medication, mobility, wound care) — reducing repetitive calls to the hospital and flagging emergencies early.
  
 ---
+<img width="1607" height="697" alt="n8n-RAG" src="https://github.com/user-attachments/assets/61034761-1f56-4833-9da9-e1f087955161" />
+
  
 ## The Problem (Before)
  
